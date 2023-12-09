@@ -1,0 +1,97 @@
+.background-col{
+    background-image: url(https://img.freepik.com/free-vector/two-neon-red-hearts-background-with-text-space_1017-23294.jpg?w=740&t=st=1701956838~exp=1701957438~hmac=8071b82222d5169476519904b333c20853ad38afc4762840b81181e0a823a8f1);
+    background-size: cover;
+    height: 60vW;
+    border-top-right-radius: 60px;
+    border-top-left-radius:60px ;
+    border-bottom-left-radius:60px ;
+    border-bottom-right-radius:60px ;
+}
+.h-heading
+{
+    font-style: italic;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font: size 25px;;
+    color: beige;
+    text-decoration: underline;
+}
+.h-center
+{
+    text-align: center;
+     padding: 8px;
+}
+
+.card-container1{
+    background-color:white;
+    border-radius: 24px;
+    padding: 20px;
+    margin: 20px;
+}
+.card-container1-heading{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+    color:darkmagenta;
+    padding: 1px;
+
+}
+.card-container1-paragraph{
+    font-style: calc();
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+}
+.card-container1-radius{
+  height: 150px;
+  width: 250px;
+}
+.card-container2{
+    background-color:white;
+    border-radius: 24px;
+    padding: 20px;
+    margin: 20px;
+}
+.card-container2-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    color:darkmagenta;
+    padding: 1px;
+}
+.card-container2-paragraph{
+    font-style: calc();
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    color:black ;
+}
+.card-container2-radius{
+  height: 170px;
+  width: 280px;}
+
+
+  .card-container3{
+    background-color: white;
+    border-radius: 24px;
+    padding: 20px;
+    margin: 20px;
+}
+.card-container3-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    color:darkmagenta;
+    padding: 1px;
+}
+.card-container3-paragraph{
+    font-style: calc();
+    font-size: 20;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.card-container3-radius{
+  height: 180px;
+  width: 200px;}

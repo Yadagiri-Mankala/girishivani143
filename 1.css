@@ -1,0 +1,55 @@
+.h-center {
+
+text-align:center;
+background-color: white;
+border-top-right-radius: 25px;
+border-top-left-radius: 25px;
+padding: 8px;
+
+
+ }
+.h-backgroundcolor{
+  background-image:url(https://img.freepik.com/free-photo/beautiful-shot-sea-with-mountain-distance-clear-sky_181624-2248.jpg?w=996&t=st=1700588962~exp=1700589562~hmac=48d633f98056fad5e7d61a5323a7cd66df85357bc0820ab28eba4cba2556c106);
+   height: 100vh;
+   background-size: cover;
+   border-top-right-radius: 25px;
+   border-top-left-radius: 25px;
+  
+}
+.main-heading{
+    color: purple;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-decoration: underline;
+  padding: 5px;
+}
+.paragraph
+{
+color:green; 
+font-size: x-large;
+font-family: 'Times New Roman', Times, serif;
+
+}
+.button-green
+{
+  background-color:#34cdeb ;
+}
+.mycontainer{
+  padding:12px;
+  
+}
+.mycontainer a{
+  text-decoration: none;
+  padding: 7px;
+  height: 36px;
+  width: 100px;
+  color: black;
+  border-radius: 12px;
+  border-width: 2px;
+  border:2px solid black;
+  font-weight:600;
+}
+.mycontainer a:hover{
+  color:black;
+  font-weight:bold;
+}
